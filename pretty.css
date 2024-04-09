@@ -1,0 +1,11 @@
+h1 {
+  color: yellow;
+  background-image: url("direct_link_to_your_image.jpg");
+  font-family: "Arial", sans-serif;
+}
+
+body {
+  color: orange;
+  font-family: "Arial", sans-serif;
+  background-color: yellow;
+}
